@@ -7,7 +7,7 @@
 */
 
 body{
- font-family: Lato;
+ font-family: lato;
  margin: 0;
  background: #6867AC;
  color: #A267AC;
@@ -34,7 +34,7 @@ img {
 
 h3 {
     text-align: center;
-    font-family: Lato;
+    font-family: lato;
     font-size: 2em;
     text-transform: uppercase;
     font-weight: 500;
@@ -64,4 +64,5 @@ margin: 5px auto;
 width: max-content;
 height: max-content;
 background: #CE7BB0;
+font-family: lato;
 }
